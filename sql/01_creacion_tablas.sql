@@ -67,7 +67,7 @@ CREATE TABLE arboles(
 	alturaArbol DECIMAL(6,2) NULL,
 	fechaMedido DATE NULL,
 	idEstadoSalud INT NOT NULL,
-	otrasObservaciones NVARCHAR(MAX) NULL, -- nos pareció muy util agregarlo
+	otrasObservaciones NVARCHAR(MAX) NULL, -- nos pareciÃ³ muy util agregarlo
 	FOREIGN KEY(idEspecie) REFERENCES especies(idEspecie),
 	FOREIGN KEY(idEstadoSalud) REFERENCES estados_salud(idEstadoSalud),
 	FOREIGN KEY(idUbicacion) REFERENCES ubicaciones(idUbicacion)
