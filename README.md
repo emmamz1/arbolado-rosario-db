@@ -26,3 +26,13 @@ Dentro del archivo `04_consultas_negocio.sql` se encuentran soluciones a problem
 - **Productividad:** Identificación de la cuadrilla con mayor número de tareas realizadas en un periodo.
 - **Atención al Ciudadano:** Filtrado de motivos de reclamos con alta demanda sin asignar.
 - **Análisis de Datos:** Ranking de los ejemplares más altos por especie utilizando funciones de ventana.
+
+## Visualización y Business Intelligence (Power BI)
+Se desarrolló un dashboard interactivo para transformar los datos operativos en decisiones estratégicas. 
+
+### Indicadores Clave (KPIs):
+- **Distribución Geográfica:** Mapeo de ejemplares mediante coordenadas `GEOGRAPHY` para identificar focos de riesgo.
+- **Estado Sanitario:** Análisis de salud forestal para priorizar intervenciones.
+- **Gestión Operativa:** Seguimiento de la carga de trabajo por cuadrilla y eficiencia de respuesta.
+
+> **Nota:** El archivo del dashboard se encuentra en la carpeta `/dashboard`. Es necesario contar con Power BI Desktop para su visualización.
