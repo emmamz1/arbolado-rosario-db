@@ -10,7 +10,7 @@ Este proyecto presenta el diseño y desarrollo de una base de datos relacional r
 ## Tecnologías utilizadas
 - **Motor:** Microsoft SQL Server
 - **Lenguaje:** T-SQL
-- **Herramientas de diseño:** Draw.io
+- **Herramientas de Visualizacion y Diseño:** Power BI, Draw.io
 
 ## Modelo de Datos (DER)
 ![Diagrama Entidad Relación](docs/der_modelo_datos.png)
