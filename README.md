@@ -34,5 +34,9 @@ Se desarrolló un dashboard interactivo para transformar los datos operativos en
 - **Distribución Geográfica:** Mapeo de ejemplares mediante coordenadas `GEOGRAPHY` para identificar focos de riesgo.
 - **Estado Sanitario:** Análisis de salud forestal para priorizar intervenciones.
 - **Gestión Operativa:** Seguimiento de la carga de trabajo por cuadrilla y eficiencia de respuesta.
+> **Nota:** El set de datos de prueba (insercion_datos.sql) utiliza asignaciones aleatorias para las cuadrillas con fines demostrativos de la funcionalidad de los filtros cruzados, por lo que la jurisdicción nominal de la cuadrilla puede no coincidir estrictamente con su ubicación geográfica en esta versión.
 
-> **Nota:** El archivo del dashboard se encuentra en la carpeta `/dashboard`. Es necesario contar con Power BI Desktop para su visualización.
+## Modelo de Datos (DER)
+![Monitor_gestion_arbolado](docs/dashboard_preview.png)
+
+> **Nota:** El archivo interactivo del dashboard se encuentra en la carpeta `/dashboard`. Es necesario contar con Power BI Desktop para su visualización.
