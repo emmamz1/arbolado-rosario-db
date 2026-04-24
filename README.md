@@ -1,6 +1,6 @@
 # Sistema de Gestión de Arbolado Público (Rosario) 
 
-Este proyecto presenta el diseño y desarrollo de una base de datos relacional robusta en **T-SQL** para la gestión del arbolado público. El sistema permite administrar integralmente el ciclo de vida de los reclamos ciudadanos, la salud de los ejemplares y la logística de las cuadrillas de mantenimiento.
+Este proyecto presenta el diseño y desarrollo de una base de datos relacional robusta en **T-SQL** para la gestión del arbolado público. El sistema permite administrar integralmente y visualizar el ciclo de vida de los reclamos ciudadanos, la salud de los ejemplares y la logística de las cuadrillas de mantenimiento.
 
 ## Características del Proyecto
 - **Modelado Relacional:** Estructura de 13 tablas normalizadas que vinculan árboles, especies, ubicaciones geográficas y personal operativo.
